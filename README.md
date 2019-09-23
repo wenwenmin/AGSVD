@@ -1,2 +1,2 @@
 # AGSVD
-Sparse matrix decomposition
+AGSVD is structured sparse matrix decomposition model.
